@@ -1,2 +1,0 @@
-serviceClass: com.andreea.ireland.client.GreetingService
-path: 1F88410F90293BC81C499E7FD09C1E14.gwt.rpc
