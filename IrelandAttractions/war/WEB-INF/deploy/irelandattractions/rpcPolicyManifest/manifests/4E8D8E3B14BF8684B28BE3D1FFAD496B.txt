@@ -1,0 +1,2 @@
+serviceClass: com.andreea.ireland.client.PoiService
+path: AD4074DDA2F1BAB2BE46D6A865C60820.gwt.rpc
