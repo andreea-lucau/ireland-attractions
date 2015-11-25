@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<poi>
+    <geo>
+        <latitude>53.3498053</latitude>
+        <longitude>-6.260309699999993</longitude>
+    </geo>
+    <display>
+        <title>Church Bar</title>
+        <description><![CDATA[
+        	<p>This really is a curch bar.</p>
+        ]]></description>
+        <field>
+            <name>Address</name>
+            <value>Jervis St, Dublin 1</value>
+        </field>
+        <field>
+        	<name>Website</name>
+        	<value><![CDATA[<a href="http://www.thechurch.ie">http://www.thechurch.ie</a>]]></value>
+        </field>
+    </display>
+</poi>

@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<poi>
+    <geo>
+        <latitude>53.341709442743166</latitude>
+        <longitude>-6.239195350634759</longitude>
+    </geo>
+    <display>
+        <title>Docklands</title>
+        <description><![CDATA[
+			<p>This is one of my favourite areas in Dublin. This is where the Celtic Tiger rose and changed
+			the city: there are a lot of new and modern buildings in the area, nice restaurants and a very fancy 
+			theather: Bord Gais Energy Theather.</p>
+			<p>I had brunch here a few times and the area just looks amazing in the morning, it fills you up with energy
+			and you are ready for a new day.</p>
+        ]]></description>
+        <field>
+            <name>Address</name>
+            <value>Grand Canal Square, Docklands, Dublin 2</value>
+        </field>
+        <field>
+        	<name>Website</name>
+        	<value><![CDATA[<a href="http://www.dublindocklands.ie">http://www.dublindocklands.ie</a>]]></value>
+        </field>
+    </display>
+</poi>

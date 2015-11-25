@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<poi>
+    <geo>
+        <latitude>53.346763</latitude>
+        <longitude>-6.263650900000016</longitude>
+    </geo>
+    <display>
+        <title>Winding Stair</title>
+        <description><![CDATA[
+        	<p>This is such a nice, cosy french restaurant in the city centre. Prices are a bit high, but the
+			food was always amazing. I like getting a table by the window, look at the Liffey and enjoy a good meal.</p>
+        ]]></description>
+        <field>
+            <name>Address</name>
+            <value>40 Lower Ormond Quay, Dublin 1</value>
+        </field>
+        <field>
+        	<name>Website</name>
+        	<value><![CDATA[<a href="http://winding-stair.com">http://winding-stair.com</a>]]></value>
+        </field>
+    </display>
+</poi>

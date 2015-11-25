@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<poi>
+    <geo>
+        <latitude>53.33989039999999</latitude>
+        <longitude>-6.242013799999995</longitude>
+    </geo>
+    <display>
+        <title>3fe</title>
+        <description><![CDATA[
+        	<p>3fe has the best coffee in Dublin, no place for discussion. I like stopping here before going
+			in a road trip for the morning boost. The coffee is so strong and tastes so powerful. Sometimes I don't
+			even need sugar, I just love tasting the full aroma.</p>
+			<p>They also have some brunch options, I've tried one and it was a failure. I recommend you play safe, with
+			yogurt and granola, scone or banana loaf, all delicous.</p>
+        ]]></description>
+        <field>
+            <name>Address</name>
+            <value>32/34 Lower Grand Canal Street, Dublin 2</value>
+        </field>
+        <field>
+        	<name>Website</name>
+        	<value><![CDATA[<a href="http://www.3fe.com">http://www.3fe.com</a>]]></value>
+        </field>
+    </display>
+</poi>

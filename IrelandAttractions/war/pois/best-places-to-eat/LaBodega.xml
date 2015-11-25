@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<poi>
+    <geo>
+        <latitude>53.323818915273485</latitude>
+        <longitude>-6.251334343872031</longitude>
+    </geo>
+    <display>
+        <title>La Bodega</title>
+        <description><![CDATA[
+        	<p>I love the idea of tapas: small bites to eat and people sharing food. Bodega is perfect for
+			this. It offers you traditional and delicious Spanish tapas and the best way to experience is by going
+			with a group of friends and tasting as many tapas as possible.</p>
+			<p>Their desserts are amazing as well and one time we were recommended a very good a wine to go with the
+			dessert - one of the most sweet and delicious drinks that I ever tasted.</p>
+        ]]></description>
+        <field>
+            <name>Address</name>
+            <value>93 Ranelagh Street, Dublin 6</value>
+        </field>
+        <field>
+        	<name>Website</name>
+        	<value><![CDATA[<a href="http://www.labodega.ie">http://www.labodega.ie</a>]]></value>
+        </field>
+    </display>
+</poi>

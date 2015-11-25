@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<poi>
+    <geo>
+        <latitude>55.2408073</latitude>
+        <longitude>-6.51155540000002</longitude>
+    </geo>
+    <display>
+        <title>Giant's Causeway</title>
+        <description><![CDATA[
+        	<p>This is one of the best know attractions of Ireland. The causeway are basalt column in hexagonal 
+			shape that rise from the ocean. It is unbelievable to see such amazing columns and the perfect hexagonal
+			shape.</p>
+        ]]></description>
+        <field>
+            <name>Address</name>
+            <value>44 Causeway Rd, Bushmills, Antrim BT57 8SU, United Kingdom</value>
+        </field>
+        <field>
+        	<name>Website</name>
+        	<value><![CDATA[<a href="http://giantscausewaytickets.com">http://giantscausewaytickets.com</a>]]></value>
+        </field>
+    </display>
+</poi>

@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<poi>
+    <geo>
+        <latitude>52.9630556</latitude>
+        <longitude>-9.443611099999998</longitude>
+    </geo>
+    <display>
+        <title>Cliffs of Moher</title>
+        <description><![CDATA[
+        	<p>This has to be the most windy but visited place in Ireland. 60 kilometers from Galway, the cliffs are 
+			raising from the ocean and are not a good place for people who are afraid of hights.</p>
+			<p>200 meters from the cliffs there is a visitor centre, where you can eat and basically hide from the wind.
+			There is also a parking lot, that is free. </p>
+        ]]></description>
+        <field>
+            <name>Address</name>
+            <value>Liscannor, Co. Clare</value>
+        </field>
+        <field>
+        	<name>Website</name>
+        	<value><![CDATA[<a href="http://www.cliffsofmoher.ie">http://www.cliffsofmoher.ie</a>]]></value>
+        </field>
+    </display>
+</poi>

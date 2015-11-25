@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<poi>
+    <geo>
+        <latitude>53.341874</latitude>
+        <longitude>-6.286709299999984</longitude>
+    </geo>
+    <display>
+        <title>Guiness Storehouse</title>
+        <description><![CDATA[
+        	<p>Guiness is the trademark of the city. A lot of the postcards have the image of the Guiness factory.
+			The storehouse is located in an old part of the factory, transformed into a modern museum. The ticket can be booked 
+			online and you can avoid the long queues. Plan for around 2 hours. The tour takes you through the process of making 
+			beer and it ends in a round glass bar that offers a nice view of the city.</p>
+			<p>The price of the ticket includes a free beer. Before leaving, checkout the cafeteria: everything there is made 
+			with Guiness. My favourite are the Guiness bear with the Guiness stew.</p>
+        ]]></description>
+        <field>
+            <name>Address</name>
+            <value>St James's Gate, Dublin 8</value>
+        </field>
+        <field>
+        	<name>Website</name>
+        	<value><![CDATA[<a href="http://www.guinness-storehouse.com">http://www.guinness-storehouse.com</a>]]></value>
+        </field>
+    </display>
+</poi>

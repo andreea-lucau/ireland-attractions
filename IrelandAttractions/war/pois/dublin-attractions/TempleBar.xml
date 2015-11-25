@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<poi>
+    <geo>
+        <latitude>53.3450903</latitude>
+        <longitude>-6.263803199999984</longitude>
+    </geo>
+    <display>
+        <title>Temple Bar</title>
+        <description><![CDATA[
+        	<p>Temple Bar is not a bar, but a street. I think it is the most famous street in Dublin. The
+			reason: it's FULL of pubs. That's it, nothing else but pubs. This is where tourist come most often for the
+			traditional pint of Guiness.</p>
+			<p>Beside a pint, the pubs can offer good an reasonable prices food and live music.</p>
+        ]]></description>
+        <field>
+            <name>Address</name>
+            <value>Temple Bar, Dublin 2</value>
+        </field>
+        <field>
+        	<name>Website</name>
+        	<value><![CDATA[<a href="http://www.templebar.ie">http://www.templebar.ie</a>]]></value>
+      8  </field>
+    </display>
+</poi>

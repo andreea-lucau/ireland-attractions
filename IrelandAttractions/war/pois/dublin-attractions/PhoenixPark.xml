@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<poi>
+    <geo>
+        <latitude>53.34993950336301</latitude>
+        <longitude>-6.300287543164131</longitude>
+    </geo>
+    <display>
+        <title>Phoenix Park</title>
+        <description><![CDATA[
+        	<p>This is the biggest park in Europe. I would recommend a visit at the zoo, then a nice tea or cake. 
+			There is a bike rental close to the park entrance and I think a bike is the best way to explore the park.</p>
+			<p>The American ambassador has a huge mansion in the middle of the park, similar looking to the white house. 
+			The Irish prime minister also has a house here. Another famous resident of the park are a bunch of deers, make sure not 
+			to miss them.</p>
+        ]]></description>
+        <field>
+            <name>Address</name>
+            <value>Phoenix Park, Dublin 8</value>
+        </field>
+        <field>
+        	<name>Website</name>
+        	<value><![CDATA[<a href="http://www.phoenixpark.ie">http://www.phoenixpark.ie</a>]]></value>
+        </field>
+    </display>
+</poi>

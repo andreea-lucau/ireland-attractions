@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<poi>
+    <geo>
+        <latitude>55.0362946</latitude>
+        <longitude>-7.9687231999999995</longitude>
+    </geo>
+    <display>
+        <title>Glenveagh Castle</title>
+        <description><![CDATA[
+        	<p>This castle is situated literally in the middle of nowhere: it is by a lake, in a middle of a national 
+			park. The castle was the properly of several gentlemen, all of them know as one of the richest people in the world 
+			in their time. With all that money, they arranged a little piece of heaven in Ireland. Now it is the property of the 
+			state and everybody can have a peak into the life of the rich.</p>
+			<p>The castle is situated in the middle of an estate and to get there, you could either take a bus or rent a bike. I 
+			would recommend the bike: the road is easy and also you can bike from the castle to a small waterfall 4 kilometers
+			away.</p>
+        ]]></description>
+        <field>
+            <name>Address</name>
+            <value>Glenveagh National Park, Churchill, Letterkenny, Co. Donegal</value>
+        </field>
+        <field>
+        	<name>Website</name>
+        	<value><![CDATA[<a href="http://www.glenveaghnationalpark.ie">http://www.glenveaghnationalpark.ie</a>]]></value>
+        </field>
+    </display>
+</poi>

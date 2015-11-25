@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<poi>
+    <geo>
+        <latitude>54.36444909999999</latitude>
+        <longitude>-8.474564999999984</longitude>
+    </geo>
+    <display>
+        <title>Benbulbin</title>
+        <description><![CDATA[
+        	<p>This is one of the most interesting mountains I ever saw. It's not the height that impressed
+			me, but the shape: Ben raised from the see and now he looks like a table for the giants. I was driving along
+			the Wild Atlantic way when I first saw it. I had to stop a few times, it was so unique, I could not let go.</p>
+        ]]></description>
+        <field>
+            <name>Address</name>
+            <value>County Sligo</value>
+        </field>
+        <field>
+        	<name>Website</name>
+        	<value><![CDATA[<a href="http://en.wikipedia.org/wiki/Benbulbin">http://en.wikipedia.org/wiki/Benbulbin</a>]]></value>
+        </field>
+    </display>
+</poi>

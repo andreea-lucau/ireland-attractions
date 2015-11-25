@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<poi>
+    <geo>
+        <latitude>53.3437935</latitude>
+        <longitude>-6.254571599999963</longitude>
+    </geo>
+    <display>
+        <title>Trinity College</title>
+        <description><![CDATA[
+        	<p>Trinity is the oldest university in Ireland and one of the oldest in the world. It is also 
+			home to one of the most famous Irish books: The Book of Kells, an old religious manuscript, famous for 
+			the beautiful writing and decorations.</p>
+			<p>In the same building housing The Book of Kells you can find one of the most beautiful libraries in the 
+			world. Its initial purpose was to gather one copy of every existing book, a manageable task 200 years ago,
+			but now any more.</p>
+			<p>I really like walking around the campus and I think I would have liked being a student here.</p>
+        ]]></description>
+        <field>
+            <name>Address</name>
+            <value>College Green, Dublin 2</value>
+        </field>
+        <field>
+        	<name>Website</name>
+        	<value><![CDATA[<a href="https://www.tcd.ie/">https://www.tcd.ie/</a>]]></value>
+        </field>
+    </display>
+</poi>

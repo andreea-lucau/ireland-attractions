@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<poi>
+    <geo>
+        <latitude>53.3498053</latitude>
+        <longitude>-6.260309699999993</longitude>
+    </geo>
+    <display>
+        <title>Yamamori</title>
+        <description><![CDATA[
+        	<p>Very good sushi restaurant.</p>
+        ]]></description>
+        <field>
+            <name>Address</name>
+            <value>71-72 S Great George's St Dublin, Dublin 2</value>
+        </field>
+        <field>
+        	<name>Website</name>
+        	<value><![CDATA[<a href="http://www.yamamorinoodles.ie">http://www.yamamorinoodles.ie</a>]]></value>
+        </field>
+    </display>
+</poi>

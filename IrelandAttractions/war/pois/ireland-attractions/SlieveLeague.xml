@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<poi>
+    <geo>
+        <latitude>54.6367862</latitude>
+        <longitude>-8.68148169999995</longitude>
+    </geo>
+    <display>
+        <title>Slieve League</title>
+        <description><![CDATA[
+        	<p>Slieve Leage Cliffs are the less touristy version of the Cliffs of Moher. I like them best, 
+			they are more colorful and more peaceful. To get there I needed a bit of courage: the road is very narrow 
+			and sheeps may get in your way and refuse to move from the middle of the road.</p>
+        ]]></description>
+        <field>
+            <name>Address</name>
+            <value>County Donegal</value>
+        </field>
+        <field>
+        	<name>Website</name>
+        	<value><![CDATA[<a href="http://slieveleaguecliffs.ie">http://slieveleaguecliffs.ie</a>]]></value>
+        </field>
+    </display>
+</poi>

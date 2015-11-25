@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<poi>
+    <geo>
+        <latitude>53.3289893</latitude>
+        <longitude>-6.2302237000000105</longitude>
+    </geo>
+    <display>
+        <title>Baan Thai</title>
+        <description><![CDATA[
+        	<p>This is currently my favourite restaurant in Dublin! I never had thai food before coming to 
+			Dublin and before going to this restaurant I had the fast food version of thai food and it was good, but
+			this place is heaven. First, you get on the house some delicius thai chips and then the food is delicious
+			and I always have some to go, because it is just too much for me to finish in one go.</p>
+        ]]></description>
+        <field>
+            <name>Address</name>
+            <value>16 Merrion Rd, Dublin, Dublin 4</value>
+        </field>
+        <field>
+        	<name>Website</name>
+        	<value><![CDATA[<a href="http://www.baanthai.ie/ballsbridge/home.php">http://www.baanthai.ie/ballsbridge/home.php</a>]]></value>
+        </field>
+    </display>
+</poi>

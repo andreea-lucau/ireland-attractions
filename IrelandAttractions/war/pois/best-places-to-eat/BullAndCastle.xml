@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<poi>
+    <geo>
+        <latitude>53.34344669999999</latitude>
+        <longitude>-6.269833100000028</longitude>
+    </geo>
+    <display>
+        <title>The Bull and Castle</title>
+        <description><![CDATA[
+        	<p>This is my go to place for a good stake. I don't like beef so much, but this place makes great
+			stakes, it never dissapointed me. They also have a great selection of beers so you are in for a traditional
+			Irish meal.</p>
+        ]]></description>
+        <field>
+            <name>Address</name>
+            <value>5-7 Lord Edward St, Dublin 8</value>
+        </field>
+        <field>
+        	<name>Website</name>
+        	<value><![CDATA[<a href="http://bull-and-castle.fxbuckley.ie">http://bull-and-castle.fxbuckley.ie</a>]]></value>
+        </field>
+    </display>
+</poi>

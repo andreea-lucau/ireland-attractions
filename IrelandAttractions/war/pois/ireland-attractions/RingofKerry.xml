@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<poi>
+    <geo>
+        <latitude>51.8387186</latitude>
+        <longitude>-9.900848699999983</longitude>
+    </geo>
+    <display>
+        <title>Ring of Kerry</title>
+        <description><![CDATA[
+        	<p>Ring of Kerry is actually a tour of o peninsula dipping in the Atlantic ocean. First stop is Ross 
+			castle. Close to the castle there is a huge lake, where there are the ruins of an ancient Irish monastery. If you 
+			are lucky, you will see one of the inhabitans of the island: wild deers.</p>
+			<p>Next stop is Muckross house, an elegant mansion in a middle of a park and facing a lake. The drive will continue 
+			along the shore. The route is called The Wild Atlantic Way. Another interesting stop is Skelling Michael, an island 
+			rising sharp from the ocean. The bad part is that it takes one hours long boat ride to get there and if the weather 
+			is windy... the breakfast might not stay in your stomach. One thousand years ago the island was inhabited by monks 
+			that build here stone houses, now called beahives.</p>
+        ]]></description>
+        <field>
+            <name>Address</name>
+            <value>Co. Kerry, Ireland</value>
+        </field>
+        <field>
+        	<name>Website</name>
+        	<value><![CDATA[<a href="http://www.ringofkerrytourism.com">http://www.ringofkerrytourism.com</a>]]></value>
+        </field>
+    </display>
+</poi>

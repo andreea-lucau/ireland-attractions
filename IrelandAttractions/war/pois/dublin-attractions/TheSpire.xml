@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<poi>
+    <geo>
+        <latitude>53.3486954</latitude>
+        <longitude>-6.259659400000032</longitude>
+    </geo>
+    <display>
+        <title>The Spire</title>
+        <description><![CDATA[
+			<p>The Spire will surprise you: it is a modern urban monument build in 2003. The surprising fact -
+			it's height: 121.2 meters.</p>
+			<p>Also known as The Monument of Light, it is build so that it's shape would resemble a ray of sun hitting the
+			Earth. What I find interesting about it is that at the base of The Spire there is a time capsule for future
+			generations to find and wonder.</p>
+        ]]></description>
+        <field>
+            <name>Address</name>
+            <value>O'Connel Street, Dublin 2, Dublin</value>
+        </field>
+        <field>
+        	<name>Website</name>
+        	<value><![CDATA[<a href="http://en.wikipedia.org/wiki/Spire_of_Dublin">http://en.wikipedia.org/wiki/Spire_of_Dublin</a>]]></value>
+        </field>
+    </display>
+</poi>

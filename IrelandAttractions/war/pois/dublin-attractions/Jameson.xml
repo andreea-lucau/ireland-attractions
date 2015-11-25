@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<poi>
+    <geo>
+        <latitude>53.3481943</latitude>
+        <longitude>-6.2768125000000055</longitude>
+    </geo>
+    <display>
+        <title>The Old Jameson Distillery</title>
+        <description><![CDATA[
+			<p>Yup, Irish people also like whiskey. The distillery is no longer functional, but it's genuine: it's 
+			the location of an old Jameson factory. The tour presents the process of making whiskey, from drying the barley until
+			distillation. The guide will tell funny little stories about the work in the factory.</p>
+			<p>At the end of the tour you get a complimentary drink: either whiskey on the rocks, either a whiskey cocktail. If 
+			you volunteer to do the tasting test, you will get even more free whiskey.</p>
+        ]]></description>
+        <field>
+            <name>Address</name>
+            <value>Bow Street, Smithfield, Dublin 7</value>
+        </field>
+        <field>
+        	<name>Website</name>
+        	<value><![CDATA[<a href="http://www.jamesonwhiskey.com">http://www.jamesonwhiskey.com</a>]]></value>
+        </field>
+    </display>
+</poi>

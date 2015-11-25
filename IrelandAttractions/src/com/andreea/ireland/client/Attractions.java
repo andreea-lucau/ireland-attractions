@@ -171,23 +171,23 @@ public class Attractions extends Composite {
     }
 
     @UiField
-        HTMLPanel infoCard;
+    HTMLPanel infoCard;
 
     @UiField
-        SimplePanel canvas;
+	SimplePanel canvas;
 
     @UiField
-        Brand home;
+    Brand home;
 
     @UiField
-        NavLink irelandAttractions;
+    NavLink irelandAttractions;
 
     @UiField
-        NavLink dublinAttractions;
+    NavLink dublinAttractions;
 
     @UiField
-        NavLink bestPlacesToEat;
+	NavLink bestPlacesToEat;
 
     @UiField
-        NavLink bestPlacesToHaveFun;
+    NavLink bestPlacesToHaveFun;
 }

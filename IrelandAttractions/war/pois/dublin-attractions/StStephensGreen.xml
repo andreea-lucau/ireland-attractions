@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<poi>
+    <geo>
+        <latitude>53.3381736</latitude>
+        <longitude>-6.259119000000055</longitude>
+    </geo>
+    <display>
+        <title>St. Stephen's Green</title>
+        <description><![CDATA[
+			<p>This is the most beautiful place in the city centre. It is always perfectly arranged and all the flowers 
+			are in bloom. The park is full of people all the time. In the middle park there is a lake, with swans and ducks. </p>
+        ]]></description>
+        <field>
+            <name>Address</name>
+            <value>St. Stephen's Green, Dublin 2, Dublin</value>
+        </field>
+        <field>
+        	<name>Website</name>
+        	<value><![CDATA[<a href="http://www.heritageireland.ie/en/dublin/ststephensgreen">http://www.heritageireland.ie/en/dublin/ststephensgreen</a>]]></value>
+        </field>
+    </display>
+</poi>
