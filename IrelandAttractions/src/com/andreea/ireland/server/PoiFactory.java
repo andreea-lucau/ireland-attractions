@@ -1,4 +1,4 @@
-package com.andreea.ireland.shared;
+package com.andreea.ireland.server;
 
 import com.andreea.ireland.shared.Poi;
 

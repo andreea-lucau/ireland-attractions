@@ -1,2 +1,3 @@
 # Module irelandattractions
 # RPC service class, partial path of RPC policy file
+com.andreea.ireland.client.PoiService, 06557F2B77BEFB5C5EEFEF0B74054C60.gwt.rpc

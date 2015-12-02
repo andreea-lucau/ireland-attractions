@@ -6,7 +6,6 @@ import java.util.logging.Logger;
 
 import com.andreea.ireland.client.PoiService;
 import com.andreea.ireland.shared.Poi;
-import com.andreea.ireland.shared.PoiFactory;
 import com.google.gwt.user.server.rpc.RemoteServiceServlet;
 
 
