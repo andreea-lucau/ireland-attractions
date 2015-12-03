@@ -8,7 +8,9 @@
     <display>
         <title>Church Bar</title>
         <description><![CDATA[
-        	<p>This really is a curch bar.</p>
+        	<p>This really is a curch bar. It is set in an old church that is not used any more. It has a bar and also a restaurant.
+        	The cocktails are pretty good, maybe with a bit too much ice. I did not try the food. The main reason I recommend it is that
+        	it looks great!</p>
         ]]></description>
         <field>
             <name>Address</name>
